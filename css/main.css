@@ -2,10 +2,11 @@
     padding-top: 20px;
     width: 100%;
     font-size: 50px;
+    background-color: tomato;
 }
 
 .content {
     font-style: italic;
     float: left;
-    color: aqua;
+    font-size: 30px;
 }
